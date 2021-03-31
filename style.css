@@ -1,0 +1,182 @@
+.team img{
+  width:80px;
+  height:80px;
+  border-radius: 25%;
+}
+ 
+header {
+  background-image:url(https://1.bp.blogspot.com/-mMNr32wbobQ/UhNoOaxGBgI/AAAAAAAAsfA/HvLB7PbUUwE/s1600/wing3.png);
+  background-size: 550px;
+} 
+
+.btn-secondary{
+  background-color: #C5DAC1;
+  /* style-color:Black; */
+}
+
+a.nav-link {
+  color: black;
+}
+
+.card img{
+  width:284px;
+  height:175px;
+}
+
+.button {
+  color: aliceblue;
+}
+
+.pricing{
+  padding: ;
+}
+.trusted{
+  width:220px;
+  height:175px;
+}
+
+/* contact section */
+#contact .contact {
+	max-width: 1000px;
+	margin: 0 auto;
+  align-items: center;
+}
+#contact .contact-items {
+	width: 300px;
+  align-items: center;
+}
+
+#contact .contact-item {
+	width: 80%;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 0px 0px 18px 0 #0000002c;
+	transition: .3s ease box-shadow;
+  align-items: center;
+}
+#contact .contact-item:hover {
+	box-shadow: 0px 0px 5px 0 #0000002c;
+
+}
+#contact .icon {
+	width: 70px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+#contact .contact-info h1 {
+	font-size: 2.5rem;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+#contact .contact-info h2 {
+	font-size: 1.3rem;
+	line-height: 2rem;
+	font-weight: 500;
+}
+
+header h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 60px;
+  font-family: 'Cookie', cursive;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 60px;
+}
+
+h1 {
+  font-family: 'Cookie', cursive;
+  font-size: 60px;
+}
+  .col-md-3 img {
+  width: 130px;
+  object-fit: cover;
+  height: 130px;
+  border-radius: 50%;
+  }
+  .trusted-by img {
+    width: 130px;
+  object-fit: cover;
+  height: 130px;
+  border-radius: 50%;
+  }
+
+h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.services i{
+  font-size: 24px;
+  padding: 5px 5px;
+  color: #5bc0de;
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+body {
+  background-color: rgb(149, 213, 178);
+  opacity: 1;
+  
+}
+.contact-items{
+background-color: rgb(116, 198, 157);
+opacity: 1;
+}
+
+.nav-link:hover {
+  background-color: aliceblue;
+}
+
+header p{
+  color: black;
+  font-size: 20px;
+  font-family: 'Libre Baskerville', serif;
+  text-align: left;
+}
+
+.contact .input-group {
+  margin-bottom: 20px;
+}
+
+.contact i {
+  padding: 15px;
+}
+
+.contact .btn {
+  width: 100%;
+  color: black;
+  background-color: aliceblue;
+}
+
+.contact .btn:hover {
+  color: white;
+  background-color: darkblue;
+}
+
+.font {
+  font-family: 'Cookie', cursive;
+}
+
+border {
+  background-position-x: left;
+  border-image: url(https://marketplace.canva.com/MACO-ALLnSg/1/thumbnail_large/canva-daisy-flower-outline-MACO-ALLnSg.png);
+}
+
+footer {
+  background-image: url(https://i.pinimg.com/originals/da/d6/24/dad6242ee6e2b7325b2e7c5bc7a862b7.png);
+  background-size: 500px;
+  }
+
+center
+
